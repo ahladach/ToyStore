@@ -8,7 +8,7 @@
 		<version>2.6.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.kreativews</groupId>
+	<groupId>com.samplesbproj</groupId>
 	<artifactId>toyapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>toyapp</name>
